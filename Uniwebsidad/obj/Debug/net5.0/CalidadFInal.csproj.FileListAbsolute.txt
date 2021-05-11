@@ -1,0 +1,256 @@
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\obj\Debug\net5.0\CalidadFInal.csprojAssemblyReference.cache
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\obj\Debug\net5.0\CalidadFInal.GeneratedMSBuildEditorConfig.editorconfig
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\obj\Debug\net5.0\CalidadFInal.AssemblyInfoInputs.cache
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\obj\Debug\net5.0\CalidadFInal.AssemblyInfo.cs
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\obj\Debug\net5.0\CalidadFInal.csproj.CoreCompileInputs.cache
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\obj\Debug\net5.0\CalidadFInal.MvcApplicationPartsAssemblyInfo.cache
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\obj\Debug\net5.0\CalidadFInal.RazorAssemblyInfo.cache
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\obj\Debug\net5.0\CalidadFInal.RazorAssemblyInfo.cs
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\obj\Debug\net5.0\staticwebassets\CalidadFInal.StaticWebAssets.Manifest.cache
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\obj\Debug\net5.0\staticwebassets\CalidadFInal.StaticWebAssets.xml
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\obj\Debug\net5.0\scopedcss\bundle\CalidadFInal.styles.css
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\obj\Debug\net5.0\CalidadFInal.TagHelpers.input.cache
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\obj\Debug\net5.0\CalidadFInal.TagHelpers.output.cache
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\obj\Debug\net5.0\CalidadFInal.RazorCoreGenerate.cache
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\obj\Debug\net5.0\Razor\Views\Auth\Login.cshtml.g.cs
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\obj\Debug\net5.0\Razor\Views\Curso\Index.cshtml.g.cs
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\obj\Debug\net5.0\Razor\Views\Shared\_LayoutLogin.cshtml.g.cs
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\obj\Debug\net5.0\CalidadFInal.RazorTargetAssemblyInfo.cache
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\obj\Debug\net5.0\CalidadFInal.RazorTargetAssemblyInfo.cs
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\obj\Debug\net5.0\CalidadFInal.dll
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\obj\Debug\net5.0\ref\CalidadFInal.dll
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\obj\Debug\net5.0\CalidadFInal.pdb
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\appsettings.Development.json
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\appsettings.json
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\CalidadFInal.exe
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\CalidadFInal.deps.json
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\CalidadFInal.runtimeconfig.json
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\CalidadFInal.runtimeconfig.dev.json
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\CalidadFInal.dll
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\ref\CalidadFInal.dll
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\CalidadFInal.pdb
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\CalidadFInal.Views.dll
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\CalidadFInal.Views.pdb
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\EntityFramework.dll
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\System.CodeDom.dll
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\obj\Debug\net5.0\CalidadFInal.Views.pdb
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\obj\Debug\net5.0\CalidadFInal.csproj.CopyComplete
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\obj\Debug\net5.0\CalidadFInal.genruntimeconfig.cache
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\obj\Debug\net5.0\Razor\Views\Curso\CrearCursoInterface.cshtml.g.cs
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\obj\Debug\net5.0\Razor\Views\Curso\DetalleCurso.cshtml.g.cs
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\obj\Debug\net5.0\Razor\Views\Curso\TodosLosCurso.cshtml.g.cs
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\obj\Debug\net5.0\Razor\Views\Curso\AgregarVideoAlCurso.cshtml.g.cs
+D:\CalidadTony\proyecto de calidad\CalidadFInal\CalidadFInal\obj\Debug\net5.0\Razor\Views\Curso\CursosCreadosPorUsuario.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\appsettings.Development.json
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\appsettings.json
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\CalidadFInal.exe
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\CalidadFInal.deps.json
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\CalidadFInal.runtimeconfig.json
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\CalidadFInal.runtimeconfig.dev.json
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\CalidadFInal.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\ref\CalidadFInal.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\CalidadFInal.pdb
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\CalidadFInal.Views.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\CalidadFInal.Views.pdb
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\EntityFramework.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\System.CodeDom.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\obj\Debug\net5.0\CalidadFInal.csprojAssemblyReference.cache
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\obj\Debug\net5.0\CalidadFInal.GeneratedMSBuildEditorConfig.editorconfig
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\obj\Debug\net5.0\CalidadFInal.AssemblyInfoInputs.cache
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\obj\Debug\net5.0\CalidadFInal.AssemblyInfo.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\obj\Debug\net5.0\CalidadFInal.csproj.CoreCompileInputs.cache
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\obj\Debug\net5.0\CalidadFInal.MvcApplicationPartsAssemblyInfo.cache
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\obj\Debug\net5.0\CalidadFInal.RazorAssemblyInfo.cache
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\obj\Debug\net5.0\CalidadFInal.RazorAssemblyInfo.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\obj\Debug\net5.0\staticwebassets\CalidadFInal.StaticWebAssets.Manifest.cache
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\obj\Debug\net5.0\staticwebassets\CalidadFInal.StaticWebAssets.xml
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\obj\Debug\net5.0\scopedcss\bundle\CalidadFInal.styles.css
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\obj\Debug\net5.0\CalidadFInal.TagHelpers.input.cache
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\obj\Debug\net5.0\CalidadFInal.TagHelpers.output.cache
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\obj\Debug\net5.0\CalidadFInal.RazorCoreGenerate.cache
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\obj\Debug\net5.0\Razor\Views\Auth\Login.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\obj\Debug\net5.0\Razor\Views\Curso\AgregarVideoAlCurso.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\obj\Debug\net5.0\Razor\Views\Curso\CrearCursoInterface.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\obj\Debug\net5.0\Razor\Views\Curso\CursosCreadosPorUsuario.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\obj\Debug\net5.0\Razor\Views\Curso\DetalleCurso.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\obj\Debug\net5.0\Razor\Views\Curso\Index.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\obj\Debug\net5.0\Razor\Views\Curso\TodosLosCurso.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\obj\Debug\net5.0\CalidadFInal.RazorTargetAssemblyInfo.cache
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\obj\Debug\net5.0\CalidadFInal.RazorTargetAssemblyInfo.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\obj\Debug\net5.0\CalidadFInal.Views.pdb
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\obj\Debug\net5.0\CalidadFInal.csproj.CopyComplete
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\obj\Debug\net5.0\CalidadFInal.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\obj\Debug\net5.0\ref\CalidadFInal.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\obj\Debug\net5.0\CalidadFInal.pdb
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\obj\Debug\net5.0\CalidadFInal.genruntimeconfig.cache
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\CalidadFInal\CalidadFInal\obj\Debug\net5.0\Razor\Views\Curso\TodosLosCursosLogout.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\appsettings.Development.json
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\appsettings.json
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\CalidadFInal.exe
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\CalidadFInal.deps.json
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\CalidadFInal.runtimeconfig.json
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\CalidadFInal.runtimeconfig.dev.json
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\CalidadFInal.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\ref\CalidadFInal.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\CalidadFInal.pdb
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\CalidadFInal.Views.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\CalidadFInal.Views.pdb
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\EntityFramework.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\System.CodeDom.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\obj\Debug\net5.0\CalidadFInal.csprojAssemblyReference.cache
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\obj\Debug\net5.0\CalidadFInal.GeneratedMSBuildEditorConfig.editorconfig
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\obj\Debug\net5.0\CalidadFInal.AssemblyInfoInputs.cache
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\obj\Debug\net5.0\CalidadFInal.AssemblyInfo.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\obj\Debug\net5.0\CalidadFInal.csproj.CoreCompileInputs.cache
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\obj\Debug\net5.0\CalidadFInal.MvcApplicationPartsAssemblyInfo.cache
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\obj\Debug\net5.0\CalidadFInal.RazorAssemblyInfo.cache
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\obj\Debug\net5.0\CalidadFInal.RazorAssemblyInfo.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\obj\Debug\net5.0\staticwebassets\CalidadFInal.StaticWebAssets.Manifest.cache
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\obj\Debug\net5.0\staticwebassets\CalidadFInal.StaticWebAssets.xml
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\obj\Debug\net5.0\scopedcss\bundle\CalidadFInal.styles.css
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\obj\Debug\net5.0\CalidadFInal.TagHelpers.input.cache
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\obj\Debug\net5.0\CalidadFInal.TagHelpers.output.cache
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\obj\Debug\net5.0\CalidadFInal.RazorCoreGenerate.cache
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\obj\Debug\net5.0\Razor\Views\Auth\Login.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\obj\Debug\net5.0\Razor\Views\Curso\AgregarVideoAlCurso.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\obj\Debug\net5.0\Razor\Views\Curso\CrearCursoInterface.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\obj\Debug\net5.0\Razor\Views\Curso\CursosCreadosPorUsuario.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\obj\Debug\net5.0\Razor\Views\Curso\DetalleCurso.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\obj\Debug\net5.0\Razor\Views\Curso\Index.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\obj\Debug\net5.0\Razor\Views\Curso\TodosLosCursosLogout.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\obj\Debug\net5.0\CalidadFInal.RazorTargetAssemblyInfo.cache
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\obj\Debug\net5.0\CalidadFInal.RazorTargetAssemblyInfo.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\obj\Debug\net5.0\CalidadFInal.Views.pdb
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\obj\Debug\net5.0\CalidadFInal.csproj.CopyComplete
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\obj\Debug\net5.0\CalidadFInal.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\obj\Debug\net5.0\ref\CalidadFInal.dll
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\obj\Debug\net5.0\CalidadFInal.pdb
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\obj\Debug\net5.0\CalidadFInal.genruntimeconfig.cache
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\obj\Debug\net5.0\Razor\Views\Curso\TodosLosCursos.cshtml.g.cs
+D:\JOSUE\UPN\9no ciclo\CALIDAD Y PRUEBAS DE SOFTWARE\uniWEBsidad-master\CalidadFInal\obj\Debug\net5.0\Razor\Views\Curso\DetalleCursoLogout.cshtml.g.cs

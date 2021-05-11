@@ -1,0 +1,30 @@
+
+
+<h1 class="p-4 text-white text-center">CREAR CURSO</h1>
+
+<div>
+    <form action="/Curso/CrearCursoForm" method="post">
+        
+        <div class="form-group">
+            <h3 class="text-white">Nombre</h3>
+            <input class="form-control" type="text" name="Curso" placeholder="Curso a crear" />
+        </div>
+
+        <div class="form-group">
+            <h3 class="text-white">Categoria</h3>
+            <select class="form-control" name="Categoria">
+                <option name="">Elija una categoria</option>
+                @foreach (var item in ViewBag.Categorias)
+                {
+                    <option value="@item.Id"> @item.Nombre</option>
+                }
+            </select>
+        </div>
+
+        <div class="text-center">
+            <button type="submit" class="btn btn-primary">Crear</button>
+            <a asp-action="CursosCreadosPorUsuario" class="btn btn-danger">Cancelar</a>
+        </div>
+
+    </form>
+</div>

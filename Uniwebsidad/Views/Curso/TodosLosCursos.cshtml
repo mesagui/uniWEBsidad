@@ -1,0 +1,64 @@
+
+<style>
+    img .zoom{
+        width: 90%;
+    }
+
+        img .zoom:hover {
+            width: 95%;
+        }
+
+        .active, .collapsible:hover {
+            background-color: #555;
+        }
+
+        h4 .card-title:hover{
+            text-decoration:none;
+            width:50%;
+        }
+
+    .content {
+        padding: 0 18px;
+        display: none;
+        overflow: hidden;
+        background-color: #f1f1f1;
+    }
+
+    .zoom {
+        transition: transform .2s;
+    }
+
+        .zoom:hover {
+            transform: scale(1.1);
+        }
+</style>
+
+<div style="text-align:center;">
+    <a href="/Curso/TodosLosCursos"><img width="700" height="250" src="~/images/iconProject.png" /></a>
+</div>
+
+<div class="row">
+    <div class="container">
+        <div class="card-deck">
+            @foreach (var item in @ViewBag.Cursos)
+            {
+                <div class="col-md-4">
+                    <div class="card text-white bg-secondary mb-3" style="max-width: 18rem;">
+                        
+                        <img class="card-img-top zoom" src="https://strategyco.es/wp-content/uploads/2020/10/Imagen-BlogStrategyco-202010A-JB.jpg" />
+                        
+                        <div class="card-body">
+                            <a href="/Curso/DetalleCurso?Id=@item.Id"><h4 class="card-title text-white">@item.Nombre</h4></a>
+                            <p>@ViewBag.Categorias[@item.Id]</p>
+                            @if (ViewBag.UsuarioId != null)
+                            {
+                                <a class="btn btn-info" href="/Curso/agregarCurso?Id=@item.Id"><i class="fas fa-plus"></i></a>
+                            }
+                            <a href="/Curso/DetalleCurso?Id=@item.Id" class="btn btn-info text-center">Leer m&aacute;s...</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>

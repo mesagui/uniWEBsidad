@@ -1,0 +1,67 @@
+﻿
+<style>
+    .zoom2{
+        transition: transform .2s;
+    }
+    .zoom2:hover{
+        transform: scale(1.2);
+    }
+</style>
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="shortcut icon" href="~/images/iso.png" type="image/x-icon" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] uniWEBsidad</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" integrity="sha384-SZXxX4whJ79/gErwcOYf+zWLeJdY/qpuqC4cAa9rOGUstPomtqpuNWT9wdPEn2fk" crossorigin="anonymous">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<body style="background-color:#183a69">
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container">
+                @if (ViewBag.UsuarioId != null)
+                {
+                    <a href="/Curso/TodosLosCursos"><img style="width:6%;margin-right:-500px" src="~/images/iso.png" /></a>
+                    <a style="color:#183a69" class="nav-link font-weight-bold zoom2" href="/Curso/TodosLosCursos">Inicio</a>
+                    <a style="color:#183a69" class="nav-link font-weight-bold zoom2" href="/Curso/CursosCreadosPorUsuario">Mis Cursos</a>
+                    <a style="color:#183a69" class="nav-link font-weight-bold zoom2" href="/Curso/Index">Mi Lista</a>
+                    <a style="color:#183a69" class="nav-link font-weight-bold zoom2" asp-area="" asp-controller="Auth" asp-action="Logout">Cerrar Sesión</a>
+                }
+                else
+                {
+                    <a href="/Curso/TodosLosCursosLogout"><img style="width:6%;margin-right:-500px" src="~/images/iso.png" /></a>
+                    <a style="color:#183a69" class="nav-link font-weight-bold zoom2" asp-area="" asp-controller="Auth" asp-action="Login">Iniciar Sesión</a>
+                }
+
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2021 - uniWEBsidad - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+    @RenderSection("Scripts2", required: false)
+</body>
+</html>

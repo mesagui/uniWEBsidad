@@ -1,0 +1,35 @@
+﻿
+<script src="~/js/DetalleCurso.js"></script>
+
+<h1 style="color:white">Curso de @ViewBag.Curso.Nombre</h1>
+
+
+<table class="table table-borderless" style="color:white">
+    <thead>
+        <tr>
+            <th>Nombre del curso</th>
+            <th>Fecha de creaci&oacute;n</th>
+            <th>Creador</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        <tr>
+            <td>@ViewBag.Curso.Nombre</td>
+            <td>@ViewBag.Curso.FechaCreacion</td>
+            <td>@ViewBag.Usuario.Nombres</td>
+        </tr>
+
+    </tbody>
+</table>
+
+<ul class="youtube_videos">
+    @foreach (var item in @ViewBag.Videos)
+    {
+        @*<li class="youtube" id="@item.Link"></li>*@
+        <iframe class="youtube" id="@item.Link" width="560" height="315" src="https://www.youtube.com/embed/@item.Link" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    }
+</ul>
+
+
+<a href='javascript:history.go(-1)' class="btn btn-info"><i class="fas fa-long-arrow-alt-left"></i> Regresar</a>

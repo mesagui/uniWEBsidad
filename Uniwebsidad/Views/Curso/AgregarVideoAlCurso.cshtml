@@ -1,0 +1,15 @@
+
+<h1 class="p-4 text-white text-center">AGREGAR VIDEO</h1>
+
+<div>
+    <form action="/Curso/AgregarVideoAlCursoForm?Idvideo=@ViewBag.IdVideo" method="post">
+        <div class="form-group">
+            <input class="form-control" type="text" name="Video" placeholder="Link del video de youtube" />
+        </div>
+
+        <div class="text-center">
+            <button type="submit" class="btn btn-primary">Agregar</button>
+            <a asp-action="CursosCreadosPorUsuario"  class="btn btn-danger">Cancelar</a>
+        </div>
+    </form>
+</div>
